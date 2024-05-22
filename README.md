@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on companies
 - 📫 How to reach me email:henriqueortiz7@gmail.com
 - 😄 Pronouns: Male
-- ⚡ Fun fact: 
+- ⚡ Fun fact: easy adapt to the anything
 
 <!---
 R1ckOrtiz/R1ckOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
