@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @R1ckOrtiz
-- 👀 I’m interested in learn and work
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on companies
-- 📫 How to reach me email:henriqueortiz7@gmail.com
-- 😄 Pronouns: Male
-- ⚡ Fun fact: easy adapt to the anything
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<!---
-R1ckOrtiz/R1ckOrtiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi 👋, I'm Henrique Ortiz
+
+**A multidisciplinary Full-Stack Developer from Curitiba - Brasil**
+<img align="right" alt="coding" width="390" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+- 🔭 I'm currently learning **Python**
+- 🌐 All of my projects are available at (https://github.com/R1ckOrtiz)
+- 📝 I'm looking for help with Web Development
+- 💬 Ask me about Python, HTML, CSS, JS.
+- 📫 How to reach me **henriqueortiz7@gmail.com**
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-ortiz-082a6018b/)
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+### 📊 GitHub Stats:
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1ckOrtiz&show_icons=true&theme=default)
+
+### 🔝 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ckOrtiz&layout=compact)
+
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=R1ckOrtiz&theme=default)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=R1ckOrtiz&label=Profile%20views&color=0e75b6&style=flat)
+
+
