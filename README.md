@@ -25,9 +25,3 @@
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ckOrtiz&layout=compact)
 
-### 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=R1ckOrtiz&theme=default)](https://git.io/streak-stats)
-
-![Profile views](https://komarev.com/ghpvc/?username=R1ckOrtiz&label=Profile%20views&color=0e75b6&style=flat)
-
-
