@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently learning **Python**
 - 🌐 All of my projects are available at (https://github.com/R1ckOrtiz)
-- 📝 I'm looking for help with Web Development
+- 📝 I'm a Functional Analyst / Web Developer
 - 💬 Ask me about Python, HTML, CSS, JS.
 - 📫 How to reach me **henriqueortiz7@gmail.com**
 
