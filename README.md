@@ -19,9 +19,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 📊 GitHub Stats:
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=R1ckOrtiz&show_icons=true&theme=default)
-
 ### 🔝 Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ckOrtiz&layout=compact)
 
