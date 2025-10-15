@@ -1,5 +1,3 @@
-
-
 ## Hi 👋, I'm Henrique Ortiz
 
 **A multidisciplinary Full-Stack Developer from Curitiba - Brasil**
