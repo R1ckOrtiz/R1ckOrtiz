@@ -1,9 +1,9 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 
 ## Hi 👋, I'm Henrique Ortiz
 
 **A multidisciplinary Full-Stack Developer from Curitiba - Brasil**
-<img align="right" alt="coding" width="390" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 - 🔭 I'm currently learning **Python**
 - 🌐 All of my projects are available at (https://github.com/R1ckOrtiz)
