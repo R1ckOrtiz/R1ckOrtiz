@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently learning **Python**
 - 🌐 All of my projects are available at (https://github.com/R1ckOrtiz)
-- 📝 I'm a Functional Analyst / Web Developer
+- 📝 I'm a Functional Analyst / Web Developer at Rumo Railway
 - 💬 Ask me about Python, HTML, CSS, JS.
 - 📫 How to reach me **henriqueortiz7@gmail.com**
 
@@ -17,6 +17,4 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🔝 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1ckOrtiz&layout=compact)
 
