@@ -1,6 +1,6 @@
 # Henrique Ortiz
 
-Functional Analyst and Full-Stack Developer focused on turning business rules, operational processes, and data flows into reliable software solutions.
+Functional Analyst at Rumo Railway and Full-Stack Developer focused on turning business rules, operational processes, and data flows into reliable software solutions.
 
 Based in Curitiba, Brazil, I work at the intersection of software engineering, functional analysis, automation, and data-driven problem solving. I enjoy building systems that support real operations, reduce manual work, and make complex processes easier to manage.
 
