@@ -1,77 +1,40 @@
-# 👋 Hi, I'm Henrique Ortiz
+# Henrique Ortiz
 
-**Functional Analyst  | Full-Stack Developer**
+Functional Analyst and Full-Stack Developer focused on turning business rules, operational processes, and data flows into reliable software solutions.
 
-Brazilian technology professional based in Curitiba 🇧🇷, working at the intersection of **software engineering, functional analysis and automation**.
+Based in Curitiba, Brazil, I work at the intersection of software engineering, functional analysis, automation, and data-driven problem solving. I enjoy building systems that support real operations, reduce manual work, and make complex processes easier to manage.
 
-I specialize in understanding complex systems, modeling processes and building technical solutions that connect **business rules, data and software development**.
+## What I Do
 
-Currently working with **railway systems, automation, data analysis and web technologies.**
+- Translate business and operational requirements into technical solutions
+- Build web applications and back-end tools with Python and JavaScript
+- Automate repetitive workflows, validations, and data processing
+- Work with databases, integrations, and structured business rules
 
----
+## Core Stack
 
-## 🚀 About Me
+- Languages: Python, JavaScript, SQL
+- Frameworks: Django, Flask, Node.js
+- Web: HTML, CSS
+- Automation and QA: Playwright, API testing, data validation
+- Tools: Git, GitHub, Oracle SQL, Linux, Agile workflows
 
-- 🧠 Functional Analyst at **Rumo Railway**
-- 💻 Full-Stack developer focused on **Python and Web Technologies**
-- ⚙️ Automation enthusiast (testing, data processing and system integration)
-- 📊 Interested in **data analysis, SQL, and system architecture**
-- 🌎 Goal: work with **international teams and complex technical systems**
+## Selected Projects
 
----
+- [ComparadorArquivo](https://github.com/R1ckOrtiz/ComparadorArquivo) - Python utility project focused on file comparison workflows.
+- [ProjetoDjango](https://github.com/R1ckOrtiz/ProjetoDjango) - Django CRUD application for registration and management flows.
+- [ecom](https://github.com/R1ckOrtiz/ecom) - Django-based e-commerce study project.
+- [LojaNode](https://github.com/R1ckOrtiz/LojaNode) - Node.js web store project.
+- [SiteHenrique](https://github.com/R1ckOrtiz/SiteHenrique) - Personal portfolio built with HTML, CSS, and JavaScript.
 
-## 🛠 Tech Stack
+Some professional and internal projects remain private.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+## Current Focus
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+I am especially interested in projects involving process automation, system integration, data analysis, validation workflows, and web platforms that support real business operations.
 
-### Backend & Frameworks
-- Django
-- Flask
-- Node.js
+## Contact
 
-### Testing & Automation
-- Playwright
-- API Testing
-- Automated Data Validation
-
-### Tools & Platforms
-- Git / GitHub
-- Oracle SQL
-- Linux / Terminal
-- Agile (Scrum / Kanban)
-
----
-
-## 📌 What I Build
-
-On my GitHub you will find projects related to:
-
-- Web applications
-- Backend APIs
-- Test automation
-- Data processing scripts
-- System integration tools
-
-🔎 Explore my repositories here:  
-👉 https://github.com/R1ckOrtiz
-
----
-
-## 📬 Contact
-
-📧 Email  
-henriqueortiz7@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/r1ckortiz/
-
----
-
-⭐ *Always learning. Always building.*
+- Portfolio: http://r1ckortiz.netlify.app
+- LinkedIn: https://www.linkedin.com/in/r1ckortiz/
+- Email: henriqueortiz7@gmail.com
